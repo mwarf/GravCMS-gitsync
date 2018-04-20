@@ -19,4 +19,3 @@ features:
         text: 'Sed risus feugiat fusce eu sit conubia venenatis aliquet nisl cras eu adipiscing ac cras at sem cras per senectus eu parturient quam.'
 ---
 
-test feature
